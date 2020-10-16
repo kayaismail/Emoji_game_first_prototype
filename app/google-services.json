@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1073328902702",
+    "firebase_url": "https://emoji-e32fc.firebaseio.com",
+    "project_id": "emoji-e32fc",
+    "storage_bucket": "emoji-e32fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073328902702:android:dc2a7f5792d12d234105bf",
+        "android_client_info": {
+          "package_name": "com.example.emoji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073328902702-9ubtbl303dpcvtcjsh2l46p2aasl2gab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb1zFOWX9GmvqJ8isKyECTDS6xm9OKI9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073328902702-9ubtbl303dpcvtcjsh2l46p2aasl2gab.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
